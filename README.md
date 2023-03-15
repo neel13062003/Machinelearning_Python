@@ -10,9 +10,9 @@
 
 
 <h2>Open CV UseFull Link</h2>
-1)<p><a href="https://youtu.be/ggQg9PLZlqA">Link Opne CV (ChaT gpt)</a></p>
-2)<p><a href="https://youtu.be/WQeoO7MI0Bs"> Opne CV in 3 hours </a></p>
-3)<p><a href="https://youtu.be/sz25xxF_AVE"> Face Recogtion Attendence System </a></p>
+<p>1)<a href="https://youtu.be/ggQg9PLZlqA">Link Opne CV (ChaT gpt)</a></p>
+<p>2)<a href="https://youtu.be/WQeoO7MI0Bs"> Opne CV in 3 hours </a></p>
+<p>3)<a href="https://youtu.be/sz25xxF_AVE"> Face Recogtion Attendence System </a></p>
 
 
 
