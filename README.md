@@ -17,4 +17,4 @@
 
 
 <b> lot's off thank you my new amazing friend "Chat Gpt" 😂😊.</b>
-<h3><b> Python is really really <i><Amazing></i></h3>
+<h3><b> Python is really really <i>Amazing</i></h3>
